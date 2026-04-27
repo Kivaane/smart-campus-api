@@ -30,6 +30,7 @@ Additionally, the system supports multiple sensor types such as temperature, hum
 ---
 
 ## 🚀 Build & Run Instructions
+You can either clone the repository using Git by running git clone https://github.com/your-username/SmartCampusAPI.git and navigating into the project folder, or download the project as a ZIP file, extract it, and open it in your preferred IDE such as NetBeans.
 
 ### Prerequisites
 - Java 17 or higher
